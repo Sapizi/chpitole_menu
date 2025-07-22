@@ -4,7 +4,7 @@ import "./globals.css";
 export default function Home() {
   return (
     <>
-      <img src="/VerticalMenu.png" alt="" className="menu"/>
+      <img src="/VerticalMenu22_07.png" alt="" className="menu"/>
     </>
   );
 }

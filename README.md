@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Инструкция для администратора кафе "Чипотл"
 
-## Getting Started
+## Назначение сайта
 
-First, run the development server:
+Сайт кафе "Чипотл" создан для отображения актуального меню мексиканской кухни. Его основное назначение — выводить меню на монитор для посетителей, чтобы они могли ознакомиться с блюдами и ценами.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Как вывести меню на монитор
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Следуйте инструкциям ниже, чтобы запустить сайт с меню на втором мониторе.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Шаги по запуску:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. **Откройте AnyDesk** на компьютере администратора.
+2. Найдите в списке доступных устройств компьютер, номер которого **начинается на 183**.
+3. Подключитесь к нему и откройте **второй монитор** (если он не открыт автоматически).
+4. Запустите **Яндекс Браузер**.
+5. Перейдите по ссылке:  
+   👉 [https://chipotle-tawny.vercel.app](https://chipotle-tawny.vercel.app)
+6. После загрузки страницы **нажмите F5** или кнопку обновления, чтобы убедиться, что меню актуальное.
+7. Нажмите клавишу **F11**, чтобы включить полноэкранный режим.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+После этого на экране будет отображаться актуальное меню кафе "Чипотл".
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Несоответствия цен
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Если вы заметили несоответствия между ценами на сайте и фактическими ценами в кафе, пожалуйста, сообщите об этом в Telegram:  
+📬 **@sap_izi**
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
