@@ -2,7 +2,7 @@ import "./globals.css";
 export default function Home() {
   return (
     <>
-      <img src="/VerticalMenu12_08_2.png" alt="" className="menu"/>
+      <img src="/VerticalMenu14_08.png" alt="" className="menu"/>
     </>
   );
 }
